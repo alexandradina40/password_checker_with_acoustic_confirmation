@@ -1,0 +1,8 @@
+1.git clone https://github.com/alexandradina40/password_checker_with_acoustic_confirmation.git terminal git // in fisier git bush
+2.clion file open proiectul
+3 modificam cod
+4.optional click dreapta fisier rosu si select git add
+5.git fetch( click dreapta proiect )
+6.git commit
+7.git pull
+8.git push
