@@ -9,5 +9,5 @@ Each key pressed on the keyboard will be displayed in the Arduino console so tha
 ##### Schematic
 ![Text alternativ](demo/circuit.jpg)
 
-
- 
+##### Sample Results
+[[Watch the video]](demo/video.mov)
